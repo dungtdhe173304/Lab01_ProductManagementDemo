@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AFBA69-55E8-4FB1-812C-72B78A591F1B}|WPFApp\\WPFApp.csproj|d:\\summer2024-ki5\\lab01_productmanagementdemo\\productmanagementdemo\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AFBA69-55E8-4FB1-812C-72B78A591F1B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E90958-CA8D-46FA-B4DD-00FE3426414D}|DataAccessLayer\\DataAccessLayer.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E90958-CA8D-46FA-B4DD-00FE3426414D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AFBA69-55E8-4FB1-812C-72B78A591F1B}|WPFApp\\WPFApp.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4AFBA69-55E8-4FB1-812C-72B78A591F1B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AFBA69-55E8-4FB1-812C-72B78A591F1B}|WPFApp\\WPFApp.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AFBA69-55E8-4FB1-812C-72B78A591F1B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E90958-CA8D-46FA-B4DD-00FE3426414D}|DataAccessLayer\\DataAccessLayer.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E90958-CA8D-46FA-B4DD-00FE3426414D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E90958-CA8D-46FA-B4DD-00FE3426414D}|DataAccessLayer\\DataAccessLayer.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E90958-CA8D-46FA-B4DD-00FE3426414D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E90958-CA8D-46FA-B4DD-00FE3426414D}|DataAccessLayer\\DataAccessLayer.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2E90958-CA8D-46FA-B4DD-00FE3426414D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E90958-CA8D-46FA-B4DD-00FE3426414D}|DataAccessLayer\\DataAccessLayer.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E90958-CA8D-46FA-B4DD-00FE3426414D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\repositories\\icatergoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icatergoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AFBA69-55E8-4FB1-812C-72B78A591F1B}|WPFApp\\WPFApp.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AFBA69-55E8-4FB1-812C-72B78A591F1B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCB1E02-5AE3-4237-AF4C-F1B3C7D174C8}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AFBA69-55E8-4FB1-812C-72B78A591F1B}|WPFApp\\WPFApp.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4AFBA69-55E8-4FB1-812C-72B78A591F1B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B55C450-314D-4879-B61E-7BFC8BD30F9E}|BusinessObjects\\BusinessObjects.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B55C450-314D-4879-B61E-7BFC8BD30F9E}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B55C450-314D-4879-B61E-7BFC8BD30F9E}|BusinessObjects\\BusinessObjects.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B55C450-314D-4879-B61E-7BFC8BD30F9E}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D499522-8007-4402-8172-2497D2C159FD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B55C450-314D-4879-B61E-7BFC8BD30F9E}|BusinessObjects\\BusinessObjects.csproj|D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B55C450-314D-4879-B61E-7BFC8BD30F9E}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:53:10.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\LoginWindow.xaml",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T19:58:36.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:49:23.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\MyStoreContext.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\MyStoreContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\MyStoreContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:51:34.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:51:35.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:59:08.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T20:25:19.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:53:48.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:50:58.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:51:18.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:53:13.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AssemblyInfo.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "WPFApp\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:10:36.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:53:42.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T19:49:24.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:55:00.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICatergoryRepository.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\ICatergoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICatergoryRepository.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\ICatergoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICatergoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:53:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:53:21.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:53:44.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:53:43.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:53:46.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:53:46.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Category.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\Category.cs",
+              "RelativeToolTip": "BusinessObjects\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:50:20.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountMember.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\AccountMember.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\AccountMember.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\AccountMember.cs",
+              "RelativeToolTip": "BusinessObjects\\AccountMember.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:50:19.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:53:20.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Lab01_ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:50:21.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
